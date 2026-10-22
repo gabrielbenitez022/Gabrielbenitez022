@@ -1,16 +1,77 @@
-## Hi there 👋
+🎮 ¡Hola, soy Gabriel Benítez Ibarrola!
 
-<!--
-**gabrielbenitez022/Gabrielbenitez022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Programación | Desarrollador en formación
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil! 👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Programación, apasionado por la tecnología, los videojuegos y la creación de soluciones mediante código.
+
+Me gusta aprender construyendo proyectos, enfrentar nuevos desafíos y mejorar mis habilidades de programación paso a paso.
+
+---
+
+🕹️ Sobre mí
+
+- 🎓 Estudiante de la Tecnicatura en Programación.
+- 💻 Desarrollo proyectos académicos y personales.
+- 🧠 Me interesa la lógica de programación y la resolución de problemas.
+- 🎮 Fan de los videojuegos y de los sistemas de combate RPG.
+- 🚀 Siempre buscando aprender algo nuevo y llevar mis habilidades al siguiente nivel.
+
+---
+
+⚔️ Tecnologías y herramientas
+
+🧩 Desarrollo de software
+
+- Java
+- Python
+- JavaScript
+- React
+- Spring Boot
+- Tailwind CSS
+- Git y GitHub
+
+Tecnologías utilizadas en mis proyectos y experiencias de aprendizaje.
+
+---
+
+🚀 Mis proyectos destacados
+
+💰 Gestor de Gastos
+
+Aplicación web para gestionar gastos compartidos, desarrollada como proyecto grupal.
+
+- 🖥️ Frontend: React.
+- ⚙️ Backend: Spring Boot.
+- 🎯 Objetivo: facilitar la gestión y organización de gastos en grupo.
+
+🔗 Repositorio: "Ver proyecto" (PEGAR_AQUI_EL_LINK_DEL_REPOSITORIO)
+
+---
+
+⚔️ RPG Combat Simulator
+
+Proyecto personal inspirado en los sistemas de combate de los videojuegos RPG.
+
+- 🐉 Simulación de combates.
+- 🧠 Práctica de lógica de programación.
+- 🎮 Exploración de mecánicas propias de los juegos de rol.
+
+🔗 Repositorio: "Ver proyecto" (PEGAR_AQUI_EL_LINK_DEL_REPOSITORIO)
+
+---
+
+🎯 Mi misión
+
+«Cada línea de código es una oportunidad para aprender, mejorar y construir algo nuevo.»
+
+Mi objetivo es seguir creciendo como desarrollador, participar en proyectos interesantes y convertir cada desafío en experiencia.
+
+---
+
+🐲 Game over? ¡Nunca!
+
+Siguiente misión: aprender, programar y crear proyectos cada vez mejores. 🚀
+
+¡Gracias por visitar mi perfil! 👾
