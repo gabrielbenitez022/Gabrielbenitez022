@@ -58,7 +58,7 @@ Proyecto personal inspirado en los sistemas de combate de los videojuegos RPG.
 - 🧠 Práctica de lógica de programación.
 - 🎮 Exploración de mecánicas propias de los juegos de rol.
 
-🔗 Repositorio: "Ver proyecto" (PEGAR_AQUI_EL_LINK_DEL_REPOSITORIO)
+🔗 Repositorio: https://github.com/Thiago-k22/Trabajo-Integrador-py
 
 ---
 
