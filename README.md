@@ -46,7 +46,7 @@ Aplicación web para gestionar gastos compartidos, desarrollada como proyecto gr
 - ⚙️ Backend: Spring Boot.
 - 🎯 Objetivo: facilitar la gestión y organización de gastos en grupo.
 
-🔗 Repositorio: "Ver proyecto" (PEGAR_AQUI_EL_LINK_DEL_REPOSITORIO)
+🔗 Repositorio: https://github.com/ArielNicolas2021/Grupo6-DDS
 
 ---
 
